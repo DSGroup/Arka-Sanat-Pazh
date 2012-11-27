@@ -4,11 +4,11 @@
 
 ###Contributing
 
-* Check our project's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/HappyFood/issues)
+* Check our project's website and report any bugs or ideas in [issues](https://github.com/DSGroup/Arka-Sanat-Pazh/issues)
 
 * Check our project's source with
 ```
-    git clone https://github.com/1schools-projects/HappyFood.git
+    git clone https://github.com/DSGroup/Arka-Sanat-Pazh.git
 ```
 
 
@@ -19,13 +19,9 @@
 
 
 ###The Team
-* [**Ali Mihandoost**](http://github.com/Alimd) Teacher  & Technical Manager
 * [**Amir Balali**](https://github.com/amirbll) Project Manager / Developer
 * [**Ehsan Abdolahi**](https://github.com/ehsanab) Designer / Developer
-* [**Ali Aghasizadeh**](http://github.com/AliGH) Technical Advisor
-* [**Mohamad Rahimpoor**](http://github.com/mrahimpoor) Graphic Advisor
-* [**Mohamad Sedaghat**](http://github.com/msedaghat) Business Advisor
 
-###Our Desire Design Is : http://themes.themegoods.com/pluto_wp/
+###Our Desire Design Is : http://wpdemo.bannersmonster.com/versatile/
 
-Produced by 1schools students network (summer 2012)
+Produced by DSGroup
