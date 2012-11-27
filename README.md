@@ -1,4 +1,31 @@
-Arka-Sanat-Pazh
-===============
+##Arka Sanat Pazh website : [arkasp.ir](http://arkasp.ir)
 
-Machine Design & Engineering Services
+**Machine Design & Engineering Services**
+
+###Contributing
+
+* Check our project's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/HappyFood/issues)
+
+* Check our project's source with
+```
+    git clone https://github.com/1schools-projects/HappyFood.git
+```
+
+
+###Building Technologies
+* [HTML5](http://ali.md/wiki/html5)
+* [CSS3](http://ali.md/css3ref)
+* [1Styles](http://ali.md/1styles)
+
+
+###The Team
+* [**Ali Mihandoost**](http://github.com/Alimd) Teacher  & Technical Manager
+* [**Amir Balali**](https://github.com/amirbll) Project Manager / Developer
+* [**Ehsan Abdolahi**](https://github.com/ehsanab) Designer / Developer
+* [**Ali Aghasizadeh**](http://github.com/AliGH) Technical Advisor
+* [**Mohamad Rahimpoor**](http://github.com/mrahimpoor) Graphic Advisor
+* [**Mohamad Sedaghat**](http://github.com/msedaghat) Business Advisor
+
+###Our Desire Design Is : http://themes.themegoods.com/pluto_wp/
+
+Produced by 1schools students network (summer 2012)
