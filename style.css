@@ -1,0 +1,68 @@
+.container {
+	border: 1px solid black;
+	min-height: 950px;
+}
+
+header {
+	border: 1px dashed black;
+	min-height: 60px;
+}
+
+header div.logo {
+	width: 300px;
+	height: 60px;
+	margin-top: 20px;
+	border: 1px dashed red;
+}
+
+header nav.menu {
+	width: 600px;
+	height: 80px;
+	border: 1px dashed blue;
+}
+
+div.slide {
+	margin-top: 30px;
+	min-height: 300px;
+	border: 1px dashed green;
+}
+
+div.slide div.img {
+	width: 650px;
+	height: 300px;
+	border: 1px dashed magenta;
+}
+
+div.slide div.slidetext {
+	margin-left: 650px;
+	height: 300px;
+	border: 1px dashed darkmagenta;
+}
+
+div.text {
+	margin-top: 50px;
+	min-height: 100px;
+	border: 1px dashed darkorange;
+}
+
+div.news {
+	width: 100%;
+	margin-top: 2px;
+	min-height: 350px;
+	border: 1px dashed green;
+}
+
+div.news div.new {
+	width: 610px;
+	min-height: 350px;
+	border: 1px dashed blue;
+}
+
+div.news div.post {
+	margin-top: -40px;
+	margin-left: 620px;
+	min-height: 390px;
+	border: 1px dashed red;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
