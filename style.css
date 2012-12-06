@@ -1,6 +1,10 @@
 .container {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	min-height: 950px;
+}
+
+body {
+	padding: 10px;
 }
 
 header {
@@ -65,4 +69,68 @@ div.news div.post {
 	border: 1px dashed red;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
+}
+
+div.explane {
+	width: 610px;
+	min-height: 300px;
+	border: 1px dashed gray;
+}
+
+div.explane div.title {
+	margin-top: 20px;
+	min-height: 30px;
+	border: 1px dashed orange;
+}
+
+div.explane div.image {
+	min-height: 250px;
+	border: 1px dashed red;
+}
+
+div.explane div.article {
+	min-height: 200px;
+	border: 1px dashed green;
+}
+
+div.explane div.article div.info {
+	width: 190px;
+	min-height: 200px;
+	border: 1px dashed lightgreen;
+}
+
+div.explane div.article div.ltext {
+	margin-left: 200px;
+	min-height: 200px;
+	border: 1px dashed green;
+}
+
+footer {
+	margin-top: 10px;
+	min-height: 480px;
+	border: 1px solid magenta;
+}
+
+footer div.blogpost {
+	width: 238px;
+	min-height: 450px;
+	border: 1px dashed green;
+}
+
+footer div.themeinfo {
+	width: 240px;
+	min-height: 450px;
+	border: 1px dashed green;
+}
+
+footer div.tweets {
+	width: 240px;
+	min-height: 450px;
+	margin-left: 482px;
+	border: 1px dashed green;
+}
+
+footer div.bottom {
+	height: 40px;
+	border: 1px dashed red;
 }
