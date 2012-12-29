@@ -1,10 +1,5 @@
-.container {
-	/*border: 1px solid black;*/
-	min-height: 950px;
-}
-
 body {
-	padding: 10px;
+	overflow-x: hidden;
 }
 
 header {
@@ -20,9 +15,11 @@ header div.logo {
 }
 
 header nav.menu {
-	width: 600px;
+	border-top-left-radius: 30px;
+	margin-left: 347px;
 	height: 80px;
 	border: 1px dashed blue;
+	background-color: #F6F6F6;
 }
 
 div.slide {
@@ -47,10 +44,10 @@ div.text {
 	margin-top: 50px;
 	min-height: 100px;
 	border: 1px dashed darkorange;
+	background-color: #337180;
 }
 
 div.news {
-	width: 100%;
 	margin-top: 2px;
 	min-height: 350px;
 	border: 1px dashed green;
@@ -109,6 +106,7 @@ footer {
 	margin-top: 10px;
 	min-height: 480px;
 	border: 1px solid magenta;
+	background-color: #F0F0F0;
 }
 
 footer div.blogpost {
@@ -133,4 +131,18 @@ footer div.tweets {
 footer div.bottom {
 	height: 40px;
 	border: 1px dashed red;
+	background-color: #454545;
+}
+
+/*header,
+div.slide,
+div.news,
+div.explane {
+	width: 950px;
+	margin: 0 auto;
+}*/
+
+.wide {
+	width: 950px;
+	margin: 0 auto;
 }
