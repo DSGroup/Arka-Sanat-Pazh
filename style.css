@@ -15,11 +15,38 @@ header div.logo {
 }
 
 header nav.menu {
-	border-top-left-radius: 30px;
+	border-bottom-left-radius: 15px;
 	margin-left: 347px;
 	height: 80px;
-	border: 1px dashed blue;
-	background-color: #F6F6F6;
+	/*border: 1px dashed blue;*/
+	background-color: #F1F1F1;
+}
+
+header nav.menu menu {
+	margin-left: 15px;
+	margin-top: 20px;
+	list-style-type: none;
+}
+
+header nav.menu li {
+	float: left;
+	height: 40px;
+}
+
+header nav.menu li:hover a {
+	font-weight: bold;
+	color: #AAB1C4;
+}
+
+header nav.menu a {
+	color: #000;
+	display:block;
+	padding: 10px 15px 15px 10px;
+	text-transform: capitalize;
+	text-decoration: none;
+	white-space: nowrap;
+	background: url('images/trans_sep.png') top right repeat-y;
+	font-family : "Times New Roman", Times, serif;
 }
 
 div.slide {
@@ -134,15 +161,9 @@ footer div.bottom {
 	background-color: #454545;
 }
 
-/*header,
-div.slide,
-div.news,
-div.explane {
-	width: 950px;
-	margin: 0 auto;
-}*/
-
 .wide {
 	width: 950px;
 	margin: 0 auto;
 }
+
+
