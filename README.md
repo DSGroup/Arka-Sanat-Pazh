@@ -24,4 +24,4 @@
 
 ###Our Desire Design Is : http://wpdemo.bannersmonster.com/versatile/
 
-Produced by DSGroup
+Produced by DSGroup - February 2015
